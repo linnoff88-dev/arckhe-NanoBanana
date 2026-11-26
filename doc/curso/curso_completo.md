@@ -1,12 +1,12 @@
 # Curso Completo de Engenharia de Prompts para Nano Banana
 
-## Do Conceito à Criação de Imagens e Vídeos Surpreendentes
+## Do Conceito à Criaçêo de Imagens e Vídeos Surpreendentes
 
 **Autor:** Manus AI
 
-### Introdução
+### Introduçêo
 
-Bem-vindo ao curso definitivo de engenharia de prompts para Nano Banana e Nano Banana Pro. Neste guia de 10 capítulos, você embarcará em uma jornada de aprendizado profundo, projetada para transformá-lo de um usuário iniciante a um verdadeiro especialista em geração de imagens e vídeos com IA. Exploraremos desde os fundamentos da construção de um prompt eficaz até as técnicas mais avançadas de hiper-realismo, animação e controle estruturado, capacitando-o a criar visuais que não apenas impressionam, mas também contam histórias e resolvem problemas de design.
+Bem-vindo ao curso definitivo de engenharia de prompts para Nano Banana e Nano Banana Pro. Neste guia de 10 capítulos, você embarcará em uma jornada de aprendizado profundo, projetada para transformá-lo de um usuário iniciante a um verdadeiro especialista em geraçêo de imagens e vídeos com IA. Exploraremos desde os fundamentos da construçêo de um prompt eficaz até as técnicas mais avançadas de hiper-realismo, animaçêo e controle estruturado, capacitando-o a criar visuais que nêo apenas impressionam, mas também contam histórias e resolvem problemas de design.
 
 Este curso foi meticulosamente pesquisado e estruturado para fornecer um conhecimento abrangente, combinando teoria, exemplos práticos e as últimas tendências do setor. Prepare-se para desbloquear todo o potencial criativo do Nano Banana e elevar suas habilidades a um novo patamar.
 
@@ -14,7 +14,7 @@ Este curso foi meticulosamente pesquisado e estruturado para fornecer um conheci
 
 O curso está dividido em 10 capítulos, cada um focado em um aspecto crucial da engenharia de prompts. Recomenda-se seguir a ordem para uma experiência de aprendizado progressiva.
 
-*   [Capítulo 1: Introdução à Engenharia de Prompts com Nano Banana](./capitulo_01.md)
+*   [Capítulo 1: Introduçêo à Engenharia de Prompts com Nano Banana](./capitulo_01.md)
 *   [Capítulo 2: A Anatomia de um Prompt Vencedor](./capitulo_02.md)
 *   [Capítulo 3: Mergulhando nos Estilos e Características de Design](./capitulo_03.md)
 *   [Capítulo 4: Nano Banana Pro: A Estrutura JSON para Controle Total](./capitulo_04.md)

@@ -2,7 +2,7 @@
 
 ## Por Que Prompts JSON Funcionam Melhor
 
-Prompts em texto simples são vagos. Prompts JSON são precisos. JSON faz diferença porque oferece saída mais limpa (Nano Banana processa dados estruturados de forma mais confiável), imagens mais nítidas (categorias claras resultam em menos artefatos estranhos), controle (define estilo, ambiente, composição e detalhes técnicos separadamente), e repetibilidade (uma vez que você tem um formato JSON que funciona, pode reutilizá-lo para resultados consistentes).
+Prompts em texto simples sêo vagos. Prompts JSON sêo precisos. JSON faz diferença porque oferece saída mais limpa (Nano Banana processa dados estruturados de forma mais confiável), imagens mais nítidas (categorias claras resultam em menos artefatos estranhos), controle (define estilo, ambiente, composiçêo e detalhes técnicos separadamente), e repetibilidade (uma vez que você tem um formato JSON que funciona, pode reutilizá-lo para resultados consistentes).
 
 ## Anatomia de um Prompt JSON
 
@@ -19,7 +19,7 @@ A estrutura básica de um prompt JSON para Nano Banana contém seis blocos princ
 }
 ```
 
-Cada bloco comunica algo específico ao modelo: **style** define o visual e a sensação, **technical** especifica detalhes similares a configurações de câmera, **materials** descreve texturas, tecidos e superfícies, **environment** estabelece o cenário ou fundo, **composition** determina como os elementos são organizados no quadro, e **quality** define resolução e acabamento.
+Cada bloco comunica algo específico ao modelo: **style** define o visual e a sensaçêo, **technical** especifica detalhes similares a configurações de câmera, **materials** descreve texturas, tecidos e superfícies, **environment** estabelece o cenário ou fundo, **composition** determina como os elementos sêo organizados no quadro, e **quality** define resoluçêo e acabamento.
 
 ## Detalhamento dos Blocos
 
@@ -37,7 +37,7 @@ O estilo é o humor da imagem. Define se você quer drama cinematográfico, real
 O campo **primary** define a base artística (photorealistic, cinematic, painterly, surreal), **rendering_quality** garante clareza, e **lighting** estabelece a atmosfera.
 
 ### Bloco Technical (Técnico)
-Este bloco permite que você atue como fotógrafo, controlando profundidade de campo, abertura e exposição.
+Este bloco permite que você atue como fotógrafo, controlando profundidade de campo, abertura e exposiçêo.
 
 ```json
 "technical": {
@@ -71,7 +71,7 @@ O modelo precisa de contexto para entender onde a cena acontece.
 }
 ```
 
-### Bloco Composition (Composição)
+### Bloco Composition (Composiçêo)
 Controla como o sujeito é enquadrado na imagem.
 
 ```json
@@ -136,11 +136,11 @@ Os iniciantes frequentemente cometem três erros principais. Primeiro, misturar 
 
 ## Dicas Profissionais
 
-Comece sempre pelo estilo e depois adicione camadas. Mantenha prompts modulares, permitindo trocar blocos de "environment" para reutilização. Use sempre o Thinking Mode no Gemini para raciocínio mais inteligente passo a passo. Teste pequenas alterações, pois uma mudança na abertura ou iluminação pode transformar completamente o resultado.
+Comece sempre pelo estilo e depois adicione camadas. Mantenha prompts modulares, permitindo trocar blocos de "environment" para reutilizaçêo. Use sempre o Thinking Mode no Gemini para raciocínio mais inteligente passo a passo. Teste pequenas alterações, pois uma mudança na abertura ou iluminaçêo pode transformar completamente o resultado.
 
 ## JSON vs Texto Simples
 
-Use JSON quando precisar de precisão, repetibilidade ou imagens polidas. Use texto simples quando estiver fazendo brainstorming, experimentando ou explorando ideias. O fluxo de trabalho profissional recomendado é começar em texto simples para testar ideias e depois mudar para JSON para os resultados finais.
+Use JSON quando precisar de precisêo, repetibilidade ou imagens polidas. Use texto simples quando estiver fazendo brainstorming, experimentando ou explorando ideias. O fluxo de trabalho profissional recomendado é começar em texto simples para testar ideias e depois mudar para JSON para os resultados finais.
 
 ## Casos de Uso Práticos
 

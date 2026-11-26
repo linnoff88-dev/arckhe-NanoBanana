@@ -1,33 +1,33 @@
 # Guia de Prompts Veo 3.1 - Workflow com Nano Banana
 
-## Visão Geral do Veo 3.1
-Veo 3.1 é o modelo de geração de vídeo mais avançado do Google, com controles criativos de nível profissional, múltiplos aspect ratios e áudio sincronizado rico.
+## Visêo Geral do Veo 3.1
+Veo 3.1 é o modelo de geraçêo de vídeo mais avançado do Google, com controles criativos de nível profissional, múltiplos aspect ratios e áudio sincronizado rico.
 
 ## Capacidades Principais
 
-### Recursos de Geração Core
+### Recursos de Geraçêo Core
 - **Vídeo de alta fidelidade**: 720p ou 1080p
 - **Aspect ratio**: 16:9 ou 9:16
-- **Duração variável**: Clips de 4, 6 ou 8 segundos
+- **Duraçêo variável**: Clips de 4, 6 ou 8 segundos
 - **Áudio rico e diálogo**: Gera som sincronizado realista, desde conversas multi-pessoa até efeitos sonoros
-- **Compreensão de cena complexa**: Entendimento profundo de estrutura narrativa e estilos cinematográficos
+- **Compreensêo de cena complexa**: Entendimento profundo de estrutura narrativa e estilos cinematográficos
 
 ### Controles Criativos Avançados
 - **Image-to-video melhorado**: Animar imagem fonte com maior aderência ao prompt
 - **Ingredients to video**: Fornecer imagens de referência para manter estética consistente
-- **First and last frame**: Gerar transição natural entre imagem inicial e final
+- **First and last frame**: Gerar transiçêo natural entre imagem inicial e final
 - **Add/remove object**: Introduzir ou remover objetos de vídeo gerado
 
 ## Fórmula para Prompts Eficazes
 
-**[Cinematografia] + [Sujeito] + [Ação] + [Contexto] + [Estilo & Ambiente]**
+**[Cinematografia] + [Sujeito] + [Açêo] + [Contexto] + [Estilo & Ambiente]**
 
 ### Elementos da Fórmula
-1. **Cinematografia**: Defina o trabalho de câmera e composição do plano
+1. **Cinematografia**: Defina o trabalho de câmera e composiçêo do plano
 2. **Sujeito**: Identifique o personagem principal ou ponto focal
-3. **Ação**: Descreva o que o sujeito está fazendo
+3. **Açêo**: Descreva o que o sujeito está fazendo
 4. **Contexto**: Detalhe o ambiente e elementos de fundo
-5. **Estilo & Ambiente**: Especifique a estética geral, humor e iluminação
+5. **Estilo & Ambiente**: Especifique a estética geral, humor e iluminaçêo
 
 ### Exemplo de Prompt
 "Medium shot, a tired corporate worker, rubbing his temples in exhaustion, in front of a bulky 1980s computer in a cluttered office late at night. The scene is lit by the harsh fluorescent overhead lights and the green glow of the monochrome monitor. Retro aesthetic, shot as if on 1980s color film, slightly grainy."
@@ -36,7 +36,7 @@ Veo 3.1 é o modelo de geração de vídeo mais avançado do Google, com control
 
 ### Linguagem de Cinematografia
 - **Movimento de câmera**: Dolly shot, tracking shot, crane shot, aerial view, slow pan, POV shot
-- **Composição**: Wide shot, close-up, extreme close-up, low angle, two-shot
+- **Composiçêo**: Wide shot, close-up, extreme close-up, low angle, two-shot
 - **Lente & Foco**: Shallow depth of field, wide-angle lens, soft focus, macro lens, deep focus
 
 ### Direcionando o Som
@@ -49,7 +49,7 @@ Descreva o que deseja excluir de forma positiva. Ex: "a desolate landscape with 
 
 ## Workflows Avançados com Nano Banana
 
-### Workflow 1: Transição Dinâmica com "First and Last Frame"
+### Workflow 1: Transiçêo Dinâmica com "First and Last Frame"
 
 **Passo 1 - Criar frame inicial** (Gemini 2.5 Flash Image/Nano Banana):
 "Medium shot of a female pop star singing passionately into a vintage microphone. She is on a dark stage, lit by a single, dramatic spotlight from the front. Photorealistic, cinematic."
@@ -68,7 +68,7 @@ Descreva o que deseja excluir de forma positiva. Ex: "a desolate landscape with 
 
 ### Workflow 3: Timestamp Prompting
 
-Permite dirigir uma sequência completa com pacing cinematográfico preciso em uma única geração:
+Permite dirigir uma sequência completa com pacing cinematográfico preciso em uma única geraçêo:
 
 ```
 [00:00-00:02] Medium shot from behind a young female explorer...
@@ -82,6 +82,6 @@ Permite dirigir uma sequência completa com pacing cinematográfico preciso em u
 ### Tipos de Conteúdo Viral
 1. **Selfies com celebridades**: Vídeos AI de selfies com famosos
 2. **Vídeos de produtos CGI**: Anúncios virais de produtos
-3. **Restauração de fotos antigas**: Transformar fotos de infância em vídeos
+3. **Restauraçêo de fotos antigas**: Transformar fotos de infância em vídeos
 4. **UGC-style ads**: Anúncios estilo influenciador
-5. **Storyboards cinematográficos**: Visualização de cenas de filmes
+5. **Storyboards cinematográficos**: Visualizaçêo de cenas de filmes

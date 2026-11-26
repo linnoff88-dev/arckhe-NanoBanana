@@ -1,48 +1,48 @@
 # 7 Dicas Oficiais do Google para Nano Banana Pro
 
-## Visão Geral
+## Visêo Geral
 Nano Banana Pro (Gemini 3 Pro Image) é o modelo de imagem mais avançado do Google, com:
-- Renderização de texto de última geração em múltiplos idiomas
-- Controles avançados como entrada de até 14 imagens em uma composição
-- Resolução até 4K (1K, 2K, 4K)
+- Renderizaçêo de texto de última geraçêo em múltiplos idiomas
+- Controles avançados como entrada de até 14 imagens em uma composiçêo
+- Resoluçêo até 4K (1K, 2K, 4K)
 
-## Estabelecendo a Visão: História, Sujeito e Estilo
+## Estabelecendo a Visêo: História, Sujeito e Estilo
 
 ### Elementos Essenciais do Prompt:
 1. **Subject (Sujeito)**: Quem ou o que está na imagem? Seja específico.
    - Ex: "um robô barista estoico com ópticas azuis brilhantes"
    - Ex: "um gato malhado fofo usando um pequeno chapéu de mago"
 
-2. **Composition (Composição)**: Como o plano é enquadrado?
+2. **Composition (Composiçêo)**: Como o plano é enquadrado?
    - Ex: extreme close-up, wide shot, low angle shot, portrait
 
-3. **Action (Ação)**: O que está acontecendo?
+3. **Action (Açêo)**: O que está acontecendo?
    - Ex: "preparando uma xícara de café", "lançando um feitiço mágico"
 
-4. **Location (Localização)**: Onde a cena acontece?
+4. **Location (Localizaçêo)**: Onde a cena acontece?
    - Ex: "um café futurista em Marte", "uma biblioteca de alquimista bagunçada"
 
 5. **Style (Estilo)**: Qual é a estética geral?
-   - Ex: animação 3D, film noir, pintura aquarela, fotorrealista, fotografia de produto dos anos 1990
+   - Ex: animaçêo 3D, film noir, pintura aquarela, fotorrealista, fotografia de produto dos anos 1990
 
-6. **Editing Instructions (Instruções de Edição)**: Para modificar imagem existente
+6. **Editing Instructions (Instruções de Ediçêo)**: Para modificar imagem existente
    - Ex: "mude a gravata do homem para verde", "remova o carro no fundo"
 
-## Refinando os Detalhes: Câmera, Iluminação e Formato
+## Refinando os Detalhes: Câmera, Iluminaçêo e Formato
 
 ### Elementos Avançados:
-1. **Composição e Aspect Ratio**: Defina a tela
+1. **Composiçêo e Aspect Ratio**: Defina a tela
    - Ex: "Um pôster vertical 9:16", "Um wide shot cinematográfico 21:9"
 
-2. **Detalhes de Câmera e Iluminação**: Dirija como um cinematógrafo
+2. **Detalhes de Câmera e Iluminaçêo**: Dirija como um cinematógrafo
    - Ex: "Low-angle shot com shallow depth of field (f/1.8)"
    - Ex: "Golden hour backlighting criando sombras longas"
    - Ex: "Color grading cinematográfico com tons teal suaves"
 
-3. **Integração de Texto Específico**: Declare claramente o texto e aparência
+3. **Integraçêo de Texto Específico**: Declare claramente o texto e aparência
    - Ex: "O título 'URBAN EXPLORER' renderizado em fonte sans-serif branca e bold no topo"
 
-4. **Restrições Factuais (para diagramas)**: Especifique necessidade de precisão
+4. **Restrições Factuais (para diagramas)**: Especifique necessidade de precisêo
    - Ex: "Um diagrama de corte transversal cientificamente preciso"
 
 5. **Inputs de Referência**: Ao usar imagens carregadas, defina o papel de cada uma
@@ -50,7 +50,7 @@ Nano Banana Pro (Gemini 3 Pro Image) é o modelo de imagem mais avançado do Goo
 
 ## 7 Técnicas de Prompting
 
-### 1. Gerar Visuais com Renderização de Texto Incrível
+### 1. Gerar Visuais com Renderizaçêo de Texto Incrível
 - Texto nítido e legível para pôsteres impactantes, diagramas intrincados e mockups de produtos
 
 ### 2. Criar com Conhecimento do Mundo Real
@@ -62,23 +62,23 @@ Nano Banana Pro (Gemini 3 Pro Image) é o modelo de imagem mais avançado do Goo
 
 ### 4. Usar Edições com Controle de Qualidade de Estúdio
 - Controles extensivos para resultados de nível profissional
-- Influenciar diretamente iluminação e configurações de câmera
+- Influenciar diretamente iluminaçêo e configurações de câmera
 
-### 5. Redimensionar com Precisão
+### 5. Redimensionar com Precisêo
 - Experimentar diferentes aspect ratios
 - Gerar visuais nítidos em 1K, 2K ou 4K
 
 ### 6. Mesclar Imagens e Manter Múltiplos Personagens Consistentes
 - Manter consistência de múltiplos personagens mesmo em grupo
-- Usar 6 a 14 imagens não conectadas e mesclá-las
+- Usar 6 a 14 imagens nêo conectadas e mesclá-las
 
 ### 7. Criar e Manter Look and Feel da Marca
 - Renderizar e aplicar designs com estilo de marca consistente
 - Aplicar padrões, logos e arte em objetos 3D e superfícies
 
 ## Limitações Atuais
-- **Fidelidade Visual e de Texto**: Texto pequeno, detalhes finos e ortografia podem não funcionar perfeitamente
-- **Precisão de Dados e Fatos**: Sempre verificar precisão factual de visuais baseados em dados
-- **Tradução e Localização**: Pode cometer erros gramaticais ou perder nuances culturais
-- **Edições Complexas e Mesclagem**: Tarefas avançadas podem produzir artefatos não naturais
+- **Fidelidade Visual e de Texto**: Texto pequeno, detalhes finos e ortografia podem nêo funcionar perfeitamente
+- **Precisêo de Dados e Fatos**: Sempre verificar precisêo factual de visuais baseados em dados
+- **Traduçêo e Localizaçêo**: Pode cometer erros gramaticais ou perder nuances culturais
+- **Edições Complexas e Mesclagem**: Tarefas avançadas podem produzir artefatos nêo naturais
 - **Características de Personagem**: Consistência pode variar entre edições

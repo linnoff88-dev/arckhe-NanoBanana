@@ -55,7 +55,7 @@ Hover:      hover:border-purple-400
 
 ## 3. Paleta de Cores
 
-### Dark Mode (Padrão)
+### Dark Mode (Padrêo)
 | Nome | Código | Uso |
 |------|--------|-----|
 | `dark-900` | `#111827` | Fundo principal da página |
@@ -75,9 +75,9 @@ Hover:      hover:border-purple-400
 | Cor | Uso |
 |-----|-----|
 | `emerald-400/500` | Sucesso, positivo, "fazer" |
-| `red-400/500` | Erro, alerta, "não fazer" |
-| `blue-400/500` | Informação, dados |
-| `yellow-400/500` | Aviso, atenção |
+| `red-400/500` | Erro, alerta, "nêo fazer" |
+| `blue-400/500` | Informaçêo, dados |
+| `yellow-400/500` | Aviso, atençêo |
 | `cyan-400/500` | Tech, dicas técnicas |
 
 ---
@@ -89,7 +89,7 @@ Hover:      hover:border-purple-400
 ├── index.html                    # Página principal do curso
 ├── trilha1/
 │   ├── index.html               # Página da Trilha 1
-│   ├── modulo-1-1.html          # O que é Geração de Imagens com IA
+│   ├── modulo-1-1.html          # O que é Geraçêo de Imagens com IA
 │   ├── modulo-1-2.html          # Como os Modelos de IA "Veem"
 │   ├── ...
 │   └── modulo-1-10.html         # Projeto Prático
@@ -111,18 +111,18 @@ Hover:      hover:border-purple-400
 1. HEADER
    └── Badge da trilha
    └── Título com emoji
-   └── Descrição (1-2 linhas)
+   └── Descriçêo (1-2 linhas)
 
 2. STATS BANNER
    └── 3-5 métricas-chave do módulo
 
 3. CONCEITOS PRINCIPAIS (2-4 seções)
-   └── Cada conceito em seção própria
+   └── Cada conceito em seçêo própria
    └── Ordem: mais importante primeiro
 
 4. ELEMENTOS DE SUPORTE
    └── Exemplos práticos
-   └── Comparações (fazer/não fazer)
+   └── Comparações (fazer/nêo fazer)
    └── Dados e pesquisas
 
 5. RESUMO/CHECKLIST
@@ -146,7 +146,7 @@ Hover:      hover:border-purple-400
 
     <div class="topic-explanation hidden ml-6 mt-2 p-4 bg-emerald-900/20 rounded-lg border-l-4 border-emerald-500">
       <p class="text-sm mb-1.5 text-neutral-300">
-        <strong class="text-emerald-400">O que é:</strong> Explicação clara do conceito.
+        <strong class="text-emerald-400">O que é:</strong> Explicaçêo clara do conceito.
       </p>
       <p class="text-sm mb-1.5 text-neutral-300">
         <strong class="text-emerald-400">Por que:</strong> Benefícios e motivo de aprender.
@@ -163,7 +163,7 @@ Hover:      hover:border-purple-400
 
 Cada tópico expansível DEVE ter exatamente 3 campos:
 
-1. **O que é:** Explicação clara e direta do conceito
+1. **O que é:** Explicaçêo clara e direta do conceito
 2. **Por que:** Benefícios, importância e motivo de aprender
 3. **Conceitos:** Termos-chave, ideias relacionadas, dados
 
@@ -174,7 +174,7 @@ Cada tópico expansível DEVE ter exatamente 3 campos:
 | Entre botões | `space-y-0.5` | 2px |
 | Padding dos botões | `py-1` | 4px |
 | Entre parágrafos | `mb-1.5` | 6px |
-| Margem esquerda da explicação | `ml-6` | 24px |
+| Margem esquerda da explicaçêo | `ml-6` | 24px |
 
 ### JavaScript do Accordion
 
@@ -219,7 +219,7 @@ document.addEventListener('click', function(e) {
 <div class="bg-dark-800 rounded-2xl p-8 border border-dark-600">
 ```
 
-### Box de Informação Interna
+### Box de Informaçêo Interna
 ```html
 <div class="bg-dark-700/50 rounded-xl p-6 mb-6">
 ```
@@ -232,7 +232,7 @@ document.addEventListener('click', function(e) {
 </div>
 ```
 
-### Grid de Comparação
+### Grid de Comparaçêo
 ```html
 <div class="grid md:grid-cols-2 gap-6">
   <div class="bg-emerald-900/20 p-6 rounded-xl border border-emerald-500/30">
@@ -240,7 +240,7 @@ document.addEventListener('click', function(e) {
     ...
   </div>
   <div class="bg-red-900/20 p-6 rounded-xl border border-red-500/30">
-    <h4 class="font-bold text-red-400 mb-4">✗ NÃO FAZER</h4>
+    <h4 class="font-bold text-red-400 mb-4">✗ NêO FAZER</h4>
     ...
   </div>
 </div>
@@ -316,12 +316,12 @@ O modal deve conter o **mesmo conteúdo completo** da página do módulo, adapta
 
 ```
 1. INTRO
-   └── Descrição do módulo
-   └── Badges (duração, tópicos, nível)
+   └── Descriçêo do módulo
+   └── Badges (duraçêo, tópicos, nível)
 
 2. SEÇÕES DE CONTEÚDO (3-5 seções)
    └── Alternar entre gradientes e fundos neutros
-   └── Cada seção com emoji + título + conteúdo
+   └── Cada seçêo com emoji + título + conteúdo
 
 3. RESUMO/CHECKLIST
    └── O que você aprendeu
@@ -350,7 +350,7 @@ O modal deve conter o **mesmo conteúdo completo** da página do módulo, adapta
   <div class="bg-emerald-900/20 p-4 rounded border border-emerald-500/30">
     <p class="font-semibold text-emerald-400 mb-2">✨ Agora:</p>
     <ul class="text-xs text-neutral-300">
-      <li>✓ Solução 1</li>
+      <li>✓ Soluçêo 1</li>
     </ul>
   </div>
 </div>
@@ -416,8 +416,8 @@ document.addEventListener('keydown', function(e) {
 | Elemento | Classes |
 |----------|---------|
 | Título da página (h1) | `text-4xl sm:text-5xl font-bold` |
-| Título de seção (h2) | `text-2xl font-bold` |
-| Título de sub-seção (h3) | `text-xl font-bold` |
+| Título de seçêo (h2) | `text-2xl font-bold` |
+| Título de sub-seçêo (h3) | `text-xl font-bold` |
 | Parágrafo normal | `text-neutral-300` |
 | Texto secundário | `text-neutral-400` |
 | Badge | `text-sm font-semibold` |
@@ -430,7 +430,7 @@ document.addEventListener('keydown', function(e) {
 |--------|-----|
 | `mb-12` | Entre seções principais |
 | `mb-6` | Entre sub-seções |
-| `mb-4` | Entre elementos dentro de uma seção |
+| `mb-4` | Entre elementos dentro de uma seçêo |
 | `p-8` | Padding de cards principais |
 | `p-6` | Padding de boxes internos |
 | `gap-6` | Espaço entre itens de grid |
@@ -449,9 +449,9 @@ document.addEventListener('keydown', function(e) {
 
 ## 12. Tom de Voz
 
-- **Direto e prático:** Sem enrolação
+- **Direto e prático:** Sem enrolaçêo
 - **Conversacional:** Como se falasse com um amigo
-- **Confiante:** Afirmações claras, não "talvez" ou "pode ser"
+- **Confiante:** Afirmações claras, nêo "talvez" ou "pode ser"
 - **Empolgante:** Usar destaques em **negrito** para pontos-chave
 - **Parágrafos:** Máximo 3-4 linhas
 
@@ -460,12 +460,12 @@ document.addEventListener('keydown', function(e) {
 ## 13. Checklist de Enriquecimento por Conceito
 
 - [ ] **Contexto:** Por que isso importa?
-- [ ] **Explicação técnica:** Como funciona?
-- [ ] **Visualização:** Diagrama, barra, timeline
+- [ ] **Explicaçêo técnica:** Como funciona?
+- [ ] **Visualizaçêo:** Diagrama, barra, timeline
 - [ ] **Exemplos:** Casos reais, prompts prontos
-- [ ] **Comparação:** Certo vs Errado
+- [ ] **Comparaçêo:** Certo vs Errado
 - [ ] **Dados:** Estatísticas com fonte
-- [ ] **Aplicação:** Como usar na prática
+- [ ] **Aplicaçêo:** Como usar na prática
 
 ---
 

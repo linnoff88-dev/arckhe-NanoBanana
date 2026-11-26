@@ -7,7 +7,7 @@
 - **tags**: Palavras-chave de alto nível que funcionam como âncoras para a estética geral
 
 ### 2. Subject Block (Bloco do Sujeito)
-- **Subject**: Lista descrevendo traços físicos (idade, pele, cabelo, expressão)
+- **Subject**: Lista descrevendo traços físicos (idade, pele, cabelo, expressêo)
 - **MadeOutOf**: Define materiais e texturas especificamente
 - **Arrangement**: Pose e posicionamento físico
 
@@ -17,8 +17,8 @@
 - **Accessories**: Pequenos detalhes que conectam o sujeito ao fundo
 
 ### 4. Technical Control (Controle Técnico)
-- **Lighting**: Fonte de luz, direção e qualidade
-- **ColorRestriction**: Limita a paleta de cores para coesão
+- **Lighting**: Fonte de luz, direçêo e qualidade
+- **ColorRestriction**: Limita a paleta de cores para coesêo
 - **Camera**: Objeto aninhado definindo o "equipamento virtual"
   - lens: Distância focal
   - aperture: Profundidade de campo
@@ -65,6 +65,6 @@
 ```
 
 ## Benefícios do JSON Prompting
-1. **Separação de Conceitos**: Previne "concept bleeding" onde cores ou atributos vazam entre elementos
-2. **Foco Ponderado**: O modelo presta atenção específica a detalhes definidos em chaves específicas
+1. **Separaçêo de Conceitos**: Previne "concept bleeding" onde cores ou atributos vazam entre elementos
+2. **Foco Ponderado**: O modelo presta atençêo específica a detalhes definidos em chaves específicas
 3. **Reprodutibilidade**: Permite trocar um único elemento sem quebrar a consistência
