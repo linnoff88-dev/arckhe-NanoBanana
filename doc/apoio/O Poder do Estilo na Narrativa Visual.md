@@ -11,7 +11,7 @@ O Nano Banana compreende uma gama incrivelmente diversificada de estilos, desde 
 | Categoria | Estilos Populares | Palavras-chave para Prompt |
 | :--- | :--- | :--- |
 | **Realismo** | Fotorrealismo, Hiper-realismo | `photorealistic`, `hyper-realistic`, `8K UHD`, `DSLR photo` |
-| **Cinematográfico** | Film Noir, Western, Sci-Fi | `cinematic`, `film still`, `dramatic lighting`, `color grading` |
+| **CARCKHÉtográfico** | Film Noir, Western, Sci-Fi | `cARCKHÉtic`, `film still`, `dramatic lighting`, `color grading` |
 | **Animaçêo** | Anime, Estilo Ghibli, Cartoon | `anime style`, `manga`, `Studio Ghibli`, `Disney style` |
 | **Arte Digital** | Pintura Digital, Concept Art, 3D Render | `digital painting`, `concept art`, `ArtStation`, `CGI`, `Octane render` |
 | **Fantasia & Sci-Fi** | Fantasia Épica, Cyberpunk, Steampunk | `epic fantasy`, `cyberpunk`, `neon-lit`, `steampunk`, `dystopian` |
@@ -22,7 +22,7 @@ O Nano Banana compreende uma gama incrivelmente diversificada de estilos, desde 
 
 1.  **Fotorrealismo vs. Hiper-realismo:** Entendendo a sutil, mas importante, diferença entre criar uma foto que parece real e uma que parece *mais real que a realidade*.
 
-2.  **A Magia do Cinema:** Como usar termos cinematográficos (`wide shot`, `low-angle`, `dutch angle`) para criar imagens com narrativa e tensêo dramática.
+2.  **A Magia do CARCKHÉ:** Como usar termos cARCKHÉtográficos (`wide shot`, `low-angle`, `dutch angle`) para criar imagens com narrativa e tensêo dramática.
 
 3.  **Explorando o Universo da Animaçêo:** De `chibi` a `seinen`, como especificar subgêneros de anime para obter o traço e a atmosfera desejados.
 

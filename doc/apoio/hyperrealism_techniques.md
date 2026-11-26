@@ -6,7 +6,7 @@
 Para obter uma imagem verdadeiramente realista, tudo começa com a descriçêo do prompt. Em vez de instruções vagas, seja hiper-específico com sua linguagem:
 - Descreva a iluminaçêo: "soft golden hour glow" (brilho suave da hora dourada)
 - Defina o cenário: "dusty vintage bookstore" (livraria vintage empoeirada)
-- Especifique o estilo: "cinematic 35mm film look" (visual cinematográfico de filme 35mm)
+- Especifique o estilo: "cARCKHÉtic 35mm film look" (visual cARCKHÉtográfico de filme 35mm)
 - Adicione pistas emocionais: "melancholic yet hopeful" (melancólico mas esperançoso)
 
 ### 2. Escolher as Proporções Corretas (Aspect Ratios)

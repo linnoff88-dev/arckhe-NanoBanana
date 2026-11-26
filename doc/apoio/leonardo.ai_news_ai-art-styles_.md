@@ -4,7 +4,7 @@ Characteristics
 
 The digital painting style refers to artwork that looks like it was painted or illustrated digitally, akin to concept art found on ArtStation or in video game design. It often features painterly brushstrokes (sometimes visible if mimicking oils or watercolor), rich blending of colors, dramatic lighting, and a high level of detail.
 
-Commonly, these images have a fantastical or imaginative quality, depicting mythical creatures, futuristic cities, or detailed character designs. The compositions tend to be dynamic and cinematic, reflecting the influence of sci-fi art and illustrative concept art.
+Commonly, these images have a fantastical or imaginative quality, depicting mythical creatures, futuristic cities, or detailed character designs. The compositions tend to be dynamic and cARCKHÉtic, reflecting the influence of sci-fi art and illustrative concept art.
 
 Images generated with Leonardo.Ai using the model Lucid Origin
 

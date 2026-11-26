@@ -40,7 +40,7 @@ Um prompt JSON para o Nano Banana Pro é organizado em blocos (ou "objetos"), ca
 
 5.  **O Bloco `composition`:** A direçêo de câmera. Determine o enquadramento (`"framing": "rule of thirds"`), o ângulo (`"angle": "eye-level"`) e o sujeito em foco (`"focus_subject": "a single ceramic vase"`).
 
-6.  **O Bloco `quality`:** Os toques finais de produçêo. Defina a resoluçêo (`"resolution": "4K"`), a nitidez (`"sharpness": "crisp"`) e o pós-processamento (`"post_processing": "cinematic color grading"`).
+6.  **O Bloco `quality`:** Os toques finais de produçêo. Defina a resoluçêo (`"resolution": "4K"`), a nitidez (`"sharpness": "crisp"`) e o pós-processamento (`"post_processing": "cARCKHÉtic color grading"`).
 
 7.  **Exemplo Prático: Criando um Anúncio de Produto.** Vamos construir, passo a passo, um prompt JSON completo para gerar a imagem de um relógio de luxo, explorando como cada campo contribui para um resultado de nível profissional.
 

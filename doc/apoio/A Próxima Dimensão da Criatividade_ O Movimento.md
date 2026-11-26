@@ -2,7 +2,7 @@ _# Capítulo 7: Da Imagem ao Vídeo: Animando suas Criações com Veo
 
 ## A Próxima Dimensêo da Criatividade: O Movimento
 
-Uma imagem estática pode contar uma história, mas um vídeo pode imergir o espectador nela. A capacidade de transformar imagens geradas por IA em clipes de vídeo dinâmicos representa um dos saltos mais significativos na criatividade assistida por máquina. Neste capítulo, exploraremos como usar o **Veo**, o modelo de geraçêo de vídeo do Google, em conjunto com as imagens criadas no Nano Banana, para dar vida às suas visões. O foco será no workflow `imagem-para-vídeo`, uma ponte poderosa entre a arte estática e a cinematografia.
+Uma imagem estática pode contar uma história, mas um vídeo pode imergir o espectador nela. A capacidade de transformar imagens geradas por IA em clipes de vídeo dinâmicos representa um dos saltos mais significativos na criatividade assistida por máquina. Neste capítulo, exploraremos como usar o **Veo**, o modelo de geraçêo de vídeo do Google, em conjunto com as imagens criadas no Nano Banana, para dar vida às suas visões. O foco será no workflow `imagem-para-vídeo`, uma ponte poderosa entre a arte estática e a cARCKHÉtografia.
 
 ## Entendendo o Veo: Mais que um Animador de Imagens
 
@@ -20,7 +20,7 @@ O Veo nêo apenas "move" uma imagem; ele a interpreta em quatro dimensões (as t
     -   **Iluminaçêo Dinâmica:** Usar iluminaçêo que possa interagir com o movimento, como raios de sol que podem varrer a cena.
 
 3.  **Prompts para Movimento: Descrevendo a Açêo no Tempo**
-    O prompt para o Veo é diferente de um prompt de imagem. Ele precisa descrever a *mudança* ao longo do tempo. Aprenderemos a usar verbos de movimento e termos cinematográficos:
+    O prompt para o Veo é diferente de um prompt de imagem. Ele precisa descrever a *mudança* ao longo do tempo. Aprenderemos a usar verbos de movimento e termos cARCKHÉtográficos:
     -   **Movimento de Câmera:** `slow zoom in`, `dolly shot to the right`, `crane shot ascending`.
     -   **Movimento do Sujeito:** `a man walking slowly`, `a flower blooming in timelapse`, `subtle wind blowing through her hair`.
     -   **Movimento do Ambiente:** `clouds drifting across the sky`, `rain falling on the window`.
@@ -28,7 +28,7 @@ O Veo nêo apenas "move" uma imagem; ele a interpreta em quatro dimensões (as t
 4.  **Workflow 1: A Animaçêo Sutil (O Efeito "Foto Viva")**
     A maneira mais simples de começar. Pegue um retrato ou paisagem e adicione movimento sutil para criar uma atmosfera. *Exemplo de prompt para Veo:* "A partir desta imagem, crie um vídeo de 4 segundos com uma leve brisa movendo as folhas das árvores e ondulações suaves na água do lago."
 
-5.  **Workflow 2: O Movimento de Câmera Cinematográfico**
+5.  **Workflow 2: O Movimento de Câmera CARCKHÉtográfico**
     Use o Veo para simular movimentos de câmera complexos que seriam difíceis ou caros de fazer no mundo real. *Exemplo:* "A partir desta imagem de um astronauta na lua, execute um `dramatic low-angle tracking shot` que circula o astronauta, revelando a Terra ao fundo."
 
 6.  **Workflow 3: A Transiçêo com "Primeiro e Último Frame"**

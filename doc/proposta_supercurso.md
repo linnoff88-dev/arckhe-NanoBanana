@@ -83,11 +83,11 @@
 | Módulo | Título | Conteúdo | Origem |
 |--------|--------|----------|--------|
 | **3.1** | Introduçêo ao Veo 3.1 | Capacidades: 720p/1080p, 4-8s, áudio nativo, aspect ratios | Cap 7 + `veo_31_workflow.md` + Google Cloud Guide |
-| **3.2** | A Fórmula de Prompts para Vídeo | [Cinematografia] + [Sujeito] + [Açêo] + [Contexto] + [Estilo] | `veo_31_workflow.md` |
-| **3.3** | Linguagem Cinematográfica | Dolly, tracking, crane, POV, pan, zoom, shallow DoF | Cap 7 + Google Cloud Guide |
+| **3.2** | A Fórmula de Prompts para Vídeo | [CARCKHÉtografia] + [Sujeito] + [Açêo] + [Contexto] + [Estilo] | `veo_31_workflow.md` |
+| **3.3** | Linguagem CARCKHÉtográfica | Dolly, tracking, crane, POV, pan, zoom, shallow DoF | Cap 7 + Google Cloud Guide |
 | **3.4** | Direcionando o Som | Diálogo com aspas, SFX, ambient noise | `veo_31_workflow.md` |
 | **3.5** | Workflow 1: Foto Viva (Animaçêo Sutil) | Adicionar movimento sutil a imagens estáticas | Cap 7 |
-| **3.6** | Workflow 2: First and Last Frame | Transições cinematográficas entre dois frames | Cap 7 + `veo_31_workflow.md` |
+| **3.6** | Workflow 2: First and Last Frame | Transições cARCKHÉtográficas entre dois frames | Cap 7 + `veo_31_workflow.md` |
 | **3.7** | Workflow 3: Ingredients to Video | Múltiplas referências para consistência | `veo_31_workflow.md` + Google Flow |
 | **3.8** | Workflow 4: Timestamp Prompting | Dirigir sequência completa em uma geraçêo | Google Cloud Guide |
 | **3.9** | Introduçêo ao Google Flow | Interface profissional, SceneBuilder, Camera Controls, Extend | Pesquisa web (Google Flow) |
@@ -127,7 +127,7 @@ SUPERCURSO NANO BANANA
 ├── TRILHA 3: FILMMAKING COM IA (15 módulos)
 │   ├── Veo 3.1 completo
 │   ├── Google Flow
-│   ├── Workflows cinematográficos
+│   ├── Workflows cARCKHÉtográficos
 │   ├── Pré e pós-produçêo
 │   └── Projeto: Curta-Metragem
 │

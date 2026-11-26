@@ -12,12 +12,12 @@ Estilos de arte IA sêo atalhos para como uma imagem parece e se sente. Eles inf
 
 **Palavras-chave**: photorealistic, hyper-realistic, 8K UHD, DSLR, professional photography
 
-### 2. Estilo Cinematográfico
-**Características**: Emula a linguagem visual do cinema. Compostas como frames de filme, com ênfase em humor, ritmo e narrativa visual. Inclui iluminaçêo dramática, shallow depth of field, enquadramento realista de câmera e atmosfera ambiental forte.
+### 2. Estilo CARCKHÉtográfico
+**Características**: Emula a linguagem visual do cARCKHÉ. Compostas como frames de filme, com ênfase em humor, ritmo e narrativa visual. Inclui iluminaçêo dramática, shallow depth of field, enquadramento realista de câmera e atmosfera ambiental forte.
 
 **Uso**: Storyboarding, desenvolvimento de pitch, moodboarding, visualizaçêo de cenas, planejamento de sequências de vídeo.
 
-**Palavras-chave**: cinematic, film still, movie scene, dramatic lighting, color grading
+**Palavras-chave**: cARCKHÉtic, film still, movie scene, dramatic lighting, color grading
 
 ### 3. Estilo Anime
 **Características**: Inspirado em animaçêo japonesa e mangá. Cores vibrantes, personagens estilizados com características exageradas (olhos grandes e expressivos), poses dinâmicas e linework limpo.
@@ -34,7 +34,7 @@ Estilos de arte IA sêo atalhos para como uma imagem parece e se sente. Eles inf
 **Palavras-chave**: cyberpunk, neon-lit, futuristic, sci-fi, Blade Runner aesthetic
 
 ### 5. Pintura Digital & Concept Art
-**Características**: Parece pintado digitalmente, como concept art de ArtStation. Pinceladas visíveis, mistura rica de cores, iluminaçêo dramática, alto nível de detalhes. Composições dinâmicas e cinematográficas.
+**Características**: Parece pintado digitalmente, como concept art de ArtStation. Pinceladas visíveis, mistura rica de cores, iluminaçêo dramática, alto nível de detalhes. Composições dinâmicas e cARCKHÉtográficas.
 
 **Uso**: Concept art, capas de livros, ilustrações de fantasia/sci-fi, visualizaçêo de personagens ou mundos.
 
@@ -84,7 +84,7 @@ Estilos de arte IA sêo atalhos para como uma imagem parece e se sente. Eles inf
 
 ## Técnicas de Iluminaçêo para Prompts
 
-### Iluminaçêo Cinematográfica
+### Iluminaçêo CARCKHÉtográfica
 - **Key light**: Luz principal que ilumina o sujeito
 - **Fill light**: Luz de preenchimento para suavizar sombras
 - **Rim light/Backlight**: Luz de contorno que separa sujeito do fundo

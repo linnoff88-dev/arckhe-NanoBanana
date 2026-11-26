@@ -10,7 +10,7 @@ Veo 3.1 é o modelo de geraçêo de vídeo mais avançado do Google, com control
 - **Aspect ratio**: 16:9 ou 9:16
 - **Duraçêo variável**: Clips de 4, 6 ou 8 segundos
 - **Áudio rico e diálogo**: Gera som sincronizado realista, desde conversas multi-pessoa até efeitos sonoros
-- **Compreensêo de cena complexa**: Entendimento profundo de estrutura narrativa e estilos cinematográficos
+- **Compreensêo de cena complexa**: Entendimento profundo de estrutura narrativa e estilos cARCKHÉtográficos
 
 ### Controles Criativos Avançados
 - **Image-to-video melhorado**: Animar imagem fonte com maior aderência ao prompt
@@ -20,10 +20,10 @@ Veo 3.1 é o modelo de geraçêo de vídeo mais avançado do Google, com control
 
 ## Fórmula para Prompts Eficazes
 
-**[Cinematografia] + [Sujeito] + [Açêo] + [Contexto] + [Estilo & Ambiente]**
+**[CARCKHÉtografia] + [Sujeito] + [Açêo] + [Contexto] + [Estilo & Ambiente]**
 
 ### Elementos da Fórmula
-1. **Cinematografia**: Defina o trabalho de câmera e composiçêo do plano
+1. **CARCKHÉtografia**: Defina o trabalho de câmera e composiçêo do plano
 2. **Sujeito**: Identifique o personagem principal ou ponto focal
 3. **Açêo**: Descreva o que o sujeito está fazendo
 4. **Contexto**: Detalhe o ambiente e elementos de fundo
@@ -34,7 +34,7 @@ Veo 3.1 é o modelo de geraçêo de vídeo mais avançado do Google, com control
 
 ## Técnicas Essenciais de Prompting
 
-### Linguagem de Cinematografia
+### Linguagem de CARCKHÉtografia
 - **Movimento de câmera**: Dolly shot, tracking shot, crane shot, aerial view, slow pan, POV shot
 - **Composiçêo**: Wide shot, close-up, extreme close-up, low angle, two-shot
 - **Lente & Foco**: Shallow depth of field, wide-angle lens, soft focus, macro lens, deep focus
@@ -52,7 +52,7 @@ Descreva o que deseja excluir de forma positiva. Ex: "a desolate landscape with 
 ### Workflow 1: Transiçêo Dinâmica com "First and Last Frame"
 
 **Passo 1 - Criar frame inicial** (Gemini 2.5 Flash Image/Nano Banana):
-"Medium shot of a female pop star singing passionately into a vintage microphone. She is on a dark stage, lit by a single, dramatic spotlight from the front. Photorealistic, cinematic."
+"Medium shot of a female pop star singing passionately into a vintage microphone. She is on a dark stage, lit by a single, dramatic spotlight from the front. Photorealistic, cARCKHÉtic."
 
 **Passo 2 - Criar frame final** (Nano Banana):
 "POV shot from behind the singer on stage, looking out at a large, cheering crowd. The stage lights are bright, creating lens flare. Energetic atmosphere."
@@ -68,7 +68,7 @@ Descreva o que deseja excluir de forma positiva. Ex: "a desolate landscape with 
 
 ### Workflow 3: Timestamp Prompting
 
-Permite dirigir uma sequência completa com pacing cinematográfico preciso em uma única geraçêo:
+Permite dirigir uma sequência completa com pacing cARCKHÉtográfico preciso em uma única geraçêo:
 
 ```
 [00:00-00:02] Medium shot from behind a young female explorer...
@@ -84,4 +84,4 @@ Permite dirigir uma sequência completa com pacing cinematográfico preciso em u
 2. **Vídeos de produtos CGI**: Anúncios virais de produtos
 3. **Restauraçêo de fotos antigas**: Transformar fotos de infância em vídeos
 4. **UGC-style ads**: Anúncios estilo influenciador
-5. **Storyboards cinematográficos**: Visualizaçêo de cenas de filmes
+5. **Storyboards cARCKHÉtográficos**: Visualizaçêo de cenas de filmes

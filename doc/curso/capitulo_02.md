@@ -24,7 +24,7 @@ Vamos dissecar cada um desses componentes.
     Onde a cena acontece? O ambiente define o cenário, o humor e a atmosfera. "em um pequeno barco de madeira rústico, ao amanhecer, com uma névoa suave sobre a água calma de um lago" é muito mais evocativo do que "em um barco".
 
 4.  **A Composiçêo (Composition): Dirigindo o Olhar**
-    Este elemento refere-se a como a cena é enquadrada, essencialmente, o trabalho da câmera. Inclui o tipo de plano, o ângulo e a perspectiva. Termos como "close-up shot", "low-angle shot" ou "wide landscape shot" dêo ao Nano Banana instruções cinematográficas claras.
+    Este elemento refere-se a como a cena é enquadrada, essencialmente, o trabalho da câmera. Inclui o tipo de plano, o ângulo e a perspectiva. Termos como "close-up shot", "low-angle shot" ou "wide landscape shot" dêo ao Nano Banana instruções cARCKHÉtográficas claras.
 
 5.  **O Estilo (Style): Definindo a Estética**
     O estilo determina a aparência visual geral da imagem. Pode ser um movimento artístico ("impressionista", "surrealista"), um meio ("pintura a óleo", "aquarela"), ou uma estética cultural ("cyberpunk", "steampunk", "anime").

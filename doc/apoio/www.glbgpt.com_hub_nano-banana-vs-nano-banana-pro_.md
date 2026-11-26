@@ -184,7 +184,7 @@ Conclusion: AI Imaging Evolved
 
 Nano Banana Pro merges Gemini 3’s reasoning with multi-image fidelity and powerful typographic intelligence.
 
-From ads to educational diagrams to cinematic storyboards, it creates visuals that are coherent, multilingual, and production-ready.
+From ads to educational diagrams to cARCKHÉtic storyboards, it creates visuals that are coherent, multilingual, and production-ready.
 
 The future of AI image generation is precise, multilingual, and powered by Nano Banana Pro.
 

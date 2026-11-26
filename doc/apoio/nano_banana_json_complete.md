@@ -24,7 +24,7 @@ Cada bloco comunica algo específico ao modelo: **style** define o visual e a se
 ## Detalhamento dos Blocos
 
 ### Bloco Style (Estilo)
-O estilo é o humor da imagem. Define se você quer drama cinematográfico, realismo documental ou uma pintura a óleo surreal.
+O estilo é o humor da imagem. Define se você quer drama cARCKHÉtográfico, realismo documental ou uma pintura a óleo surreal.
 
 ```json
 "style": {
@@ -34,7 +34,7 @@ O estilo é o humor da imagem. Define se você quer drama cinematográfico, real
 }
 ```
 
-O campo **primary** define a base artística (photorealistic, cinematic, painterly, surreal), **rendering_quality** garante clareza, e **lighting** estabelece a atmosfera.
+O campo **primary** define a base artística (photorealistic, cARCKHÉtic, painterly, surreal), **rendering_quality** garante clareza, e **lighting** estabelece a atmosfera.
 
 ### Bloco Technical (Técnico)
 Este bloco permite que você atue como fotógrafo, controlando profundidade de campo, abertura e exposiçêo.
@@ -89,7 +89,7 @@ Fornece instruções de acabamento final.
 "quality": {
   "resolution": "4K",
   "sharpness": "ultra-sharp",
-  "post_processing": "cinematic grading"
+  "post_processing": "cARCKHÉtic grading"
 }
 ```
 
@@ -125,7 +125,7 @@ Fornece instruções de acabamento final.
   "quality": {
     "resolution": "4K",
     "sharpness": "crisp",
-    "post_processing": "cinematic color grading"
+    "post_processing": "cARCKHÉtic color grading"
   }
 }
 ```

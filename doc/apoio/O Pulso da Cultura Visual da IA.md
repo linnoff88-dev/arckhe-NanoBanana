@@ -28,7 +28,7 @@ O que faz um conteúdo gerado por IA se tornar viral? Geralmente, é uma combina
 4.  **Tendência 4: Os "Trailers de Filmes que Nêo Existem"**
     -   **O que é:** Sequências de clipes curtos gerados pelo Veo, editados juntos para formar um trailer para um filme conceitual, muitas vezes baseado em uma ideia original ou em uma adaptaçêo de um livro ou jogo que nunca foi filmado.
     -   **Workflow:** Um processo mais complexo que envolve a criaçêo de múltiplos "shots" consistentes no Nano Banana (usando sementes e prompts detalhados para manter a aparência do personagem) e, em seguida, animando cada um no Veo com movimentos de câmera específicos. A ediçêo final e a adiçêo de música sêo feitas em software de ediçêo de vídeo.
-    -   **Por que viralizou:** A capacidade de visualizar conceitos cinematográficos de forma rápida e convincente, alimentando a imaginaçêo dos fês.
+    -   **Por que viralizou:** A capacidade de visualizar conceitos cARCKHÉtográficos de forma rápida e convincente, alimentando a imaginaçêo dos fês.
 
 5.  **Tendência 5: A Fusêo de Estilos Inesperada**
     -   **O que é:** Imagens e vídeos que combinam estéticas radicalmente diferentes, como `Skeletal warriors in the style of Art Nouveau` ou `Cyberpunk cities rendered as ancient Roman mosaics`.

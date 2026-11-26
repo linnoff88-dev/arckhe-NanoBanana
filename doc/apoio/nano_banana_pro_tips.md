@@ -32,12 +32,12 @@ Nano Banana Pro (Gemini 3 Pro Image) é o modelo de imagem mais avançado do Goo
 
 ### Elementos Avançados:
 1. **Composiçêo e Aspect Ratio**: Defina a tela
-   - Ex: "Um pôster vertical 9:16", "Um wide shot cinematográfico 21:9"
+   - Ex: "Um pôster vertical 9:16", "Um wide shot cARCKHÉtográfico 21:9"
 
-2. **Detalhes de Câmera e Iluminaçêo**: Dirija como um cinematógrafo
+2. **Detalhes de Câmera e Iluminaçêo**: Dirija como um cARCKHÉtógrafo
    - Ex: "Low-angle shot com shallow depth of field (f/1.8)"
    - Ex: "Golden hour backlighting criando sombras longas"
-   - Ex: "Color grading cinematográfico com tons teal suaves"
+   - Ex: "Color grading cARCKHÉtográfico com tons teal suaves"
 
 3. **Integraçêo de Texto Específico**: Declare claramente o texto e aparência
    - Ex: "O título 'URBAN EXPLORER' renderizado em fonte sans-serif branca e bold no topo"
